@@ -1,0 +1,7 @@
+C:\Users\kostyanidze\Desktop\Stackc_lab1-master\Stack\bin\Debug\Stack.exe.config
+C:\Users\kostyanidze\Desktop\Stackc_lab1-master\Stack\bin\Debug\Stack.exe
+C:\Users\kostyanidze\Desktop\Stackc_lab1-master\Stack\bin\Debug\Stack.pdb
+C:\Users\kostyanidze\Desktop\Stackc_lab1-master\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\kostyanidze\Desktop\Stackc_lab1-master\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\kostyanidze\Desktop\Stackc_lab1-master\Stack\obj\Debug\Stack.exe
+C:\Users\kostyanidze\Desktop\Stackc_lab1-master\Stack\obj\Debug\Stack.pdb
